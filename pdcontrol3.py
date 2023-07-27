@@ -13,8 +13,8 @@ in the main program to obtain the current market prices
 If these codes are not available the program will toggle the
 output at each interval to test the radio link.
 
-version 3 : made the AEST methods more readable
-          : changed the display of prices
+version 3 : made the AEST methods more readable.
+          : changed the display of prices.
 """
 
 import time
